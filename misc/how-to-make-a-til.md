@@ -8,6 +8,6 @@
 
 4. Add the link to the README
 
-5. Push baby! 🚀
+5. Push baby! :rocket:
 
 [[Source]](https://github.com/jbranchaud/til)
